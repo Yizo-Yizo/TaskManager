@@ -1,6 +1,6 @@
 # Task Manager
 
-# This program is for a small business that can help it to manage tasks assigned to each team member of the team.
+# This program is for a small business it can help it to manage tasks assigned to each team member of the team.
 
 * This program works with two text files, the files have the following:
     
